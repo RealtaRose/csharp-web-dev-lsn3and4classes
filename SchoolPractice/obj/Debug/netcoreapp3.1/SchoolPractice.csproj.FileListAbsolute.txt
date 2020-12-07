@@ -1,0 +1,13 @@
+C:\Users\caira\CoderGirl\C#\4. ClassesInCSharp\E.ClassesAndObjects\SchoolPractice\bin\Debug\netcoreapp3.1\SchoolPractice.exe
+C:\Users\caira\CoderGirl\C#\4. ClassesInCSharp\E.ClassesAndObjects\SchoolPractice\bin\Debug\netcoreapp3.1\SchoolPractice.deps.json
+C:\Users\caira\CoderGirl\C#\4. ClassesInCSharp\E.ClassesAndObjects\SchoolPractice\bin\Debug\netcoreapp3.1\SchoolPractice.runtimeconfig.json
+C:\Users\caira\CoderGirl\C#\4. ClassesInCSharp\E.ClassesAndObjects\SchoolPractice\bin\Debug\netcoreapp3.1\SchoolPractice.runtimeconfig.dev.json
+C:\Users\caira\CoderGirl\C#\4. ClassesInCSharp\E.ClassesAndObjects\SchoolPractice\bin\Debug\netcoreapp3.1\SchoolPractice.dll
+C:\Users\caira\CoderGirl\C#\4. ClassesInCSharp\E.ClassesAndObjects\SchoolPractice\bin\Debug\netcoreapp3.1\SchoolPractice.pdb
+C:\Users\caira\CoderGirl\C#\4. ClassesInCSharp\E.ClassesAndObjects\SchoolPractice\obj\Debug\netcoreapp3.1\SchoolPractice.csprojAssemblyReference.cache
+C:\Users\caira\CoderGirl\C#\4. ClassesInCSharp\E.ClassesAndObjects\SchoolPractice\obj\Debug\netcoreapp3.1\SchoolPractice.AssemblyInfoInputs.cache
+C:\Users\caira\CoderGirl\C#\4. ClassesInCSharp\E.ClassesAndObjects\SchoolPractice\obj\Debug\netcoreapp3.1\SchoolPractice.AssemblyInfo.cs
+C:\Users\caira\CoderGirl\C#\4. ClassesInCSharp\E.ClassesAndObjects\SchoolPractice\obj\Debug\netcoreapp3.1\SchoolPractice.csproj.CoreCompileInputs.cache
+C:\Users\caira\CoderGirl\C#\4. ClassesInCSharp\E.ClassesAndObjects\SchoolPractice\obj\Debug\netcoreapp3.1\SchoolPractice.dll
+C:\Users\caira\CoderGirl\C#\4. ClassesInCSharp\E.ClassesAndObjects\SchoolPractice\obj\Debug\netcoreapp3.1\SchoolPractice.pdb
+C:\Users\caira\CoderGirl\C#\4. ClassesInCSharp\E.ClassesAndObjects\SchoolPractice\obj\Debug\netcoreapp3.1\SchoolPractice.genruntimeconfig.cache
